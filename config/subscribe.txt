@@ -11,3 +11,16 @@ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://tv.iill.top/m3u/Gather
 https://188766.xyz/itv
 https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u
+https://live.hacks.tools/tv/iptv4.m3u
+https://live.hacks.tools/tv/iptv6.m3u
+https://live.iptv-free.com/iptv/languages/zho.m3u
+https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
