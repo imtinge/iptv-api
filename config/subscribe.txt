@@ -24,3 +24,4 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
+https://freetv.fun/test_channels_china_new.m3u
