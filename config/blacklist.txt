@@ -1,3 +1,29 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
+freetv.top
+chinamobile.com
+smart.pendy.dpdns.org
+php.jdshipin.com
+goo.bkpcp.top
+221.13.235.63
+2409:8087:1a01:df::4041
+vip1.xinketongxun.fun
+ldcctvwbcdks.v.kcdnvip.com
+sh.lnott.top
+2409:8087:1a01:df::4051
+221.13.234.220
+221.13.235.63
+221.13.234.220
+z.b.bkpcp.top
+event.pull.hebtv.com
+j.x.bkpcp.top
+jwplay.hebyun.com.cn
+ldncctvwbcdcnc.v.wscdns.com
+iptv.huuc.edu.cn
+221.13.234.220
+2409:8087:1a01:df::4033
+zqh2333.top
+livetv.wqwqwq.sbs
+2409:8087:1a01:df::4025
+2409:8087:1a01:df::4077
