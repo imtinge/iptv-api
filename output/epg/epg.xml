@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260221101820 +0800">
+<tv date="20260221221728 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11491,436 +11491,415 @@
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
-	<programme channel="明珠台" start="20260221000000 +0800" stop="20260221001000 +0800">
+	<programme channel="明珠台" start="20260222000000 +0800" stop="20260222003500 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="明珠台" start="20260221001000 +0800" stop="20260221004000 +0800">
-		<title lang="zh">赛马预测</title>
+	<programme channel="明珠台" start="20260222003500 +0800" stop="20260222013500 +0800">
+		<title lang="zh">全美一叮</title>
 	</programme>
-	<programme channel="明珠台" start="20260221004000 +0800" stop="20260221010500 +0800">
-		<title lang="zh">世界邮轮之最</title>
-	</programme>
-	<programme channel="明珠台" start="20260221010500 +0800" stop="20260221015000 +0800">
+	<programme channel="明珠台" start="20260222013500 +0800" stop="20260222022000 +0800">
 		<title lang="zh">中国24小时</title>
 	</programme>
-	<programme channel="明珠台" start="20260221015000 +0800" stop="20260221020000 +0800">
+	<programme channel="明珠台" start="20260222022000 +0800" stop="20260222030000 +0800">
 		<title lang="zh">金融概要</title>
 	</programme>
-	<programme channel="明珠台" start="20260221020000 +0800" stop="20260221035900 +0800">
+	<programme channel="明珠台" start="20260222030000 +0800" stop="20260222045900 +0800">
 		<title lang="zh">祝君晚安</title>
 	</programme>
-	<programme channel="明珠台" start="20260221035900 +0800" stop="20260221055800 +0800">
+	<programme channel="明珠台" start="20260222045900 +0800" stop="20260222060000 +0800">
 		<title lang="zh">祝君晚安</title>
 	</programme>
-	<programme channel="明珠台" start="20260221055800 +0800" stop="20260221060000 +0800">
-		<title lang="zh">祝君晚安</title>
-	</programme>
-	<programme channel="明珠台" start="20260221060000 +0800" stop="20260221073000 +0800">
+	<programme channel="明珠台" start="20260222060000 +0800" stop="20260222070000 +0800">
 		<title lang="zh">金融概要</title>
 	</programme>
-	<programme channel="明珠台" start="20260221073000 +0800" stop="20260221080000 +0800">
-		<title lang="zh">NBC世界新闻</title>
-	</programme>
-	<programme channel="明珠台" start="20260221080000 +0800" stop="20260221090000 +0800">
-		<title lang="zh">金融概要</title>
-	</programme>
-	<programme channel="明珠台" start="20260221090000 +0800" stop="20260221093000 +0800">
-		<title lang="zh">动物天使</title>
-	</programme>
-	<programme channel="明珠台" start="20260221093000 +0800" stop="20260221100000 +0800">
+	<programme channel="明珠台" start="20260222070000 +0800" stop="20260222073000 +0800">
 		<title lang="zh">新造电视</title>
 	</programme>
-	<programme channel="明珠台" start="20260221100000 +0800" stop="20260221110000 +0800">
+	<programme channel="明珠台" start="20260222073000 +0800" stop="20260222080000 +0800">
+		<title lang="zh">NBC世界新闻</title>
+	</programme>
+	<programme channel="明珠台" start="20260222080000 +0800" stop="20260222090000 +0800">
 		<title lang="zh">权能时间</title>
 	</programme>
-	<programme channel="明珠台" start="20260221110000 +0800" stop="20260221113000 +0800">
-		<title lang="zh">超级饼艺大师</title>
+	<programme channel="明珠台" start="20260222090000 +0800" stop="20260222093000 +0800">
+		<title lang="zh">香港都会大学提供知识新天地</title>
 	</programme>
-	<programme channel="明珠台" start="20260221113000 +0800" stop="20260221120000 +0800">
-		<title lang="zh">明珠杂志</title>
+	<programme channel="明珠台" start="20260222093000 +0800" stop="20260222101500 +0800">
+		<title lang="zh">香港都会大学提供知识新天地</title>
 	</programme>
-	<programme channel="明珠台" start="20260221120000 +0800" stop="20260221130000 +0800">
-		<title lang="zh">穹苍下的世界</title>
+	<programme channel="明珠台" start="20260222101500 +0800" stop="20260222111500 +0800">
+		<title lang="zh">香港都会大学提供知识新天地</title>
 	</programme>
-	<programme channel="明珠台" start="20260221130000 +0800" stop="20260221135000 +0800">
-		<title lang="zh">美国小厨神</title>
+	<programme channel="明珠台" start="20260222111500 +0800" stop="20260222115000 +0800">
+		<title lang="zh">香港都会大学提供知识新天地</title>
 	</programme>
-	<programme channel="明珠台" start="20260221135000 +0800" stop="20260221144000 +0800">
-		<title lang="zh">美国小厨神</title>
+	<programme channel="明珠台" start="20260222115000 +0800" stop="20260222124000 +0800">
+		<title lang="zh">香港都会大学提供知识新天地</title>
 	</programme>
-	<programme channel="明珠台" start="20260221144000 +0800" stop="20260221151000 +0800">
-		<title lang="zh">英国海岸铁路游</title>
+	<programme channel="明珠台" start="20260222124000 +0800" stop="20260222130000 +0800">
+		<title lang="zh">香港都会大学提供知识新天地</title>
 	</programme>
-	<programme channel="明珠台" start="20260221151000 +0800" stop="20260221152000 +0800">
-		<title lang="zh">花生动画</title>
+	<programme channel="明珠台" start="20260222130000 +0800" stop="20260222141500 +0800">
+		<title lang="zh">野性大草原</title>
 	</programme>
-	<programme channel="明珠台" start="20260221152000 +0800" stop="20260221153000 +0800">
+	<programme channel="明珠台" start="20260222141500 +0800" stop="20260222144500 +0800">
+		<title lang="zh">西班牙色香味</title>
+	</programme>
+	<programme channel="明珠台" start="20260222144500 +0800" stop="20260222150000 +0800">
 		<title lang="zh">世界真细小</title>
 	</programme>
-	<programme channel="明珠台" start="20260221153000 +0800" stop="20260221160000 +0800">
+	<programme channel="明珠台" start="20260222150000 +0800" stop="20260222153000 +0800">
+		<title lang="zh">清心直说</title>
+	</programme>
+	<programme channel="明珠台" start="20260222153000 +0800" stop="20260222160000 +0800">
 		<title lang="zh">恩雨之声</title>
 	</programme>
-	<programme channel="明珠台" start="20260221160000 +0800" stop="20260221161500 +0800">
+	<programme channel="明珠台" start="20260222160000 +0800" stop="20260222161500 +0800">
 		<title lang="zh">花生动画</title>
 	</programme>
-	<programme channel="明珠台" start="20260221161500 +0800" stop="20260221163000 +0800">
+	<programme channel="明珠台" start="20260222161500 +0800" stop="20260222163000 +0800">
 		<title lang="zh">普通话新闻报道</title>
 	</programme>
-	<programme channel="明珠台" start="20260221163000 +0800" stop="20260221170000 +0800">
-		<title lang="zh">迷你小画家</title>
-	</programme>
-	<programme channel="明珠台" start="20260221170000 +0800" stop="20260221172500 +0800">
-		<title lang="zh">汤马仕小火车</title>
-	</programme>
-	<programme channel="明珠台" start="20260221172500 +0800" stop="20260221175500 +0800">
+	<programme channel="明珠台" start="20260222163000 +0800" stop="20260222170000 +0800">
 		<title lang="zh">KJ时空漫游</title>
 	</programme>
-	<programme channel="明珠台" start="20260221175500 +0800" stop="20260221190000 +0800">
-		<title lang="zh">牠们这一家</title>
+	<programme channel="明珠台" start="20260222170000 +0800" stop="20260222173000 +0800">
+		<title lang="zh">迷你波莉</title>
 	</programme>
-	<programme channel="明珠台" start="20260221190000 +0800" stop="20260221193000 +0800">
-		<title lang="zh">世界邮轮之最</title>
+	<programme channel="明珠台" start="20260222173000 +0800" stop="20260222180000 +0800">
+		<title lang="zh">捉鬼小队</title>
 	</programme>
-	<programme channel="明珠台" start="20260221193000 +0800" stop="20260221195500 +0800">
-		<title lang="zh">七点半新闻报道</title>
-	</programme>
-	<programme channel="明珠台" start="20260221195500 +0800" stop="20260221200000 +0800">
-		<title lang="zh">天气报告100道风味</title>
-	</programme>
-	<programme channel="明珠台" start="20260221200000 +0800" stop="20260221203000 +0800">
-		<title lang="zh">保育童行</title>
-	</programme>
-	<programme channel="明珠台" start="20260221203000 +0800" stop="20260221213000 +0800">
+	<programme channel="明珠台" start="20260222180000 +0800" stop="20260222190000 +0800">
 		<title lang="zh">野性密语</title>
 	</programme>
-	<programme channel="明珠台" start="20260221213000 +0800" stop="20260221232900 +0800">
-		<title lang="zh">TomJerry大电影</title>
+	<programme channel="明珠台" start="20260222190000 +0800" stop="20260222193000 +0800">
+		<title lang="zh">保育童行</title>
 	</programme>
-	<programme channel="明珠台" start="20260221232900 +0800" stop="20260221233000 +0800">
-		<title lang="zh">TomJerry大电影</title>
+	<programme channel="明珠台" start="20260222193000 +0800" stop="20260222195500 +0800">
+		<title lang="zh">七点半新闻报道</title>
 	</programme>
-	<programme channel="明珠台" start="20260221233000 +0800" stop="20260221235000 +0800">
+	<programme channel="明珠台" start="20260222195500 +0800" stop="20260222200000 +0800">
+		<title lang="zh">天气报告100道风味</title>
+	</programme>
+	<programme channel="明珠台" start="20260222200000 +0800" stop="20260222203000 +0800">
+		<title lang="zh">大自然守护队</title>
+	</programme>
+	<programme channel="明珠台" start="20260222203000 +0800" stop="20260222212000 +0800">
+		<title lang="zh">笑笑小电影</title>
+	</programme>
+	<programme channel="明珠台" start="20260222212000 +0800" stop="20260222213000 +0800">
+		<title lang="zh">世界真细小</title>
+	</programme>
+	<programme channel="明珠台" start="20260222213000 +0800" stop="20260222232900 +0800">
+		<title lang="zh">翻生侏罗馆Ⅱ</title>
+	</programme>
+	<programme channel="明珠台" start="20260222232900 +0800" stop="20260222234500 +0800">
+		<title lang="zh">翻生侏罗馆Ⅱ</title>
+	</programme>
+	<programme channel="明珠台" start="20260222234500 +0800" stop="20260222235959 +0800">
 		<title lang="zh">晚间新闻</title>
-	</programme>
-	<programme channel="明珠台" start="20260221235000 +0800" stop="20260221235959 +0800">
-		<title lang="zh">全美一叮</title>
 	</programme>
 	<channel id="香港卫视">
 		<display-name lang="zh">香港卫视</display-name>
 	</channel>
-	<programme channel="香港卫视" start="20260221000000 +0800" stop="20260221001000 +0800">
+	<programme channel="香港卫视" start="20260222000000 +0800" stop="20260222001000 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221001000 +0800" stop="20260221010000 +0800">
+	<programme channel="香港卫视" start="20260222001000 +0800" stop="20260222010000 +0800">
 		<title lang="zh">电视剧</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221010000 +0800" stop="20260221015000 +0800">
+	<programme channel="香港卫视" start="20260222010000 +0800" stop="20260222015000 +0800">
 		<title lang="zh">电视剧</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221015000 +0800" stop="20260221024000 +0800">
+	<programme channel="香港卫视" start="20260222015000 +0800" stop="20260222024000 +0800">
 		<title lang="zh">电视剧</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221024000 +0800" stop="20260221033000 +0800">
+	<programme channel="香港卫视" start="20260222024000 +0800" stop="20260222033000 +0800">
 		<title lang="zh">电视剧</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221033000 +0800" stop="20260221042000 +0800">
+	<programme channel="香港卫视" start="20260222033000 +0800" stop="20260222042000 +0800">
 		<title lang="zh">电视剧</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221042000 +0800" stop="20260221044000 +0800">
+	<programme channel="香港卫视" start="20260222042000 +0800" stop="20260222043600 +0800">
 		<title lang="zh">港视大直播</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221044000 +0800" stop="20260221045400 +0800">
-		<title lang="zh">印象重庆</title>
+	<programme channel="香港卫视" start="20260222043600 +0800" stop="20260222045200 +0800">
+		<title lang="zh">那点财经事</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221045400 +0800" stop="20260221052400 +0800">
+	<programme channel="香港卫视" start="20260222045200 +0800" stop="20260222052100 +0800">
+		<title lang="zh">映像</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222052100 +0800" stop="20260222054700 +0800">
 		<title lang="zh">守心人</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221052400 +0800" stop="20260221055500 +0800">
-		<title lang="zh">高朋座</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221055500 +0800" stop="20260221062500 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221062500 +0800" stop="20260221065500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221065500 +0800" stop="20260221071500 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221071500 +0800" stop="20260221072800 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221072800 +0800" stop="20260221073300 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221073300 +0800" stop="20260221080000 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221080000 +0800" stop="20260221080100 +0800">
-		<title lang="zh">瀚宇广告</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221080100 +0800" stop="20260221080700 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221080700 +0800" stop="20260221083200 +0800">
+	<programme channel="香港卫视" start="20260222054700 +0800" stop="20260222061300 +0800">
 		<title lang="zh">独爱东南</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221083200 +0800" stop="20260221090000 +0800">
-		<title lang="zh">香港精神</title>
+	<programme channel="香港卫视" start="20260222061300 +0800" stop="20260222063400 +0800">
+		<title lang="zh">西望成都02</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221090000 +0800" stop="20260221090600 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221090600 +0800" stop="20260221093200 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221093200 +0800" stop="20260221100000 +0800">
-		<title lang="zh">健康加油站</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221100000 +0800" stop="20260221100600 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221100600 +0800" stop="20260221103500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221103500 +0800" stop="20260221110500 +0800">
-		<title lang="zh">文化超声</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221110500 +0800" stop="20260221113400 +0800">
-		<title lang="zh">高朋座</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221113400 +0800" stop="20260221115500 +0800">
+	<programme channel="香港卫视" start="20260222063400 +0800" stop="20260222065500 +0800">
 		<title lang="zh">香江唱皖</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221115500 +0800" stop="20260221122400 +0800">
-		<title lang="zh">映像波特兰</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221122400 +0800" stop="20260221123000 +0800">
-		<title lang="zh">三奇企业宣传片</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221123000 +0800" stop="20260221124700 +0800">
-		<title lang="zh">港视午新闻</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221124700 +0800" stop="20260221131300 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221131300 +0800" stop="20260221134200 +0800">
-		<title lang="zh">香港精神</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221134200 +0800" stop="20260221141200 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221141200 +0800" stop="20260221142500 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221142500 +0800" stop="20260221144500 +0800">
-		<title lang="zh">午新闻</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221144500 +0800" stop="20260221153100 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221153100 +0800" stop="20260221161800 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221161800 +0800" stop="20260221170500 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221170500 +0800" stop="20260221172800 +0800">
-		<title lang="zh">动画天地</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221172800 +0800" stop="20260221175100 +0800">
-		<title lang="zh">动画天地</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221175100 +0800" stop="20260221181400 +0800">
-		<title lang="zh">动画天地</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221181400 +0800" stop="20260221183700 +0800">
-		<title lang="zh">动画天地</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221183700 +0800" stop="20260221190000 +0800">
-		<title lang="zh">动画天地</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221190000 +0800" stop="20260221191800 +0800">
+	<programme channel="香港卫视" start="20260222065500 +0800" stop="20260222071500 +0800">
 		<title lang="zh">港视大直播</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221191800 +0800" stop="20260221193000 +0800">
-		<title lang="zh">印象重庆</title>
+	<programme channel="香港卫视" start="20260222071500 +0800" stop="20260222072200 +0800">
+		<title lang="zh">早安中国</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221193000 +0800" stop="20260221200000 +0800">
-		<title lang="zh">美丽中华行</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221200000 +0800" stop="20260221203000 +0800">
+	<programme channel="香港卫视" start="20260222072200 +0800" stop="20260222075000 +0800">
 		<title lang="zh">守心人</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221203000 +0800" stop="20260221205000 +0800">
-		<title lang="zh">西望成都</title>
+	<programme channel="香港卫视" start="20260222075000 +0800" stop="20260222080000 +0800">
+		<title lang="zh">印象重庆02</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221205000 +0800" stop="20260221211800 +0800">
-		<title lang="zh">香港故事</title>
+	<programme channel="香港卫视" start="20260222080000 +0800" stop="20260222080900 +0800">
+		<title lang="zh">早安中国</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221211800 +0800" stop="20260221213000 +0800">
-		<title lang="zh">印象重庆</title>
+	<programme channel="香港卫视" start="20260222080900 +0800" stop="20260222084000 +0800">
+		<title lang="zh">高朋满座</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221213000 +0800" stop="20260221220100 +0800">
-		<title lang="zh">讲述者</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221220100 +0800" stop="20260221223000 +0800">
-		<title lang="zh">健康加油站</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221223000 +0800" stop="20260221230000 +0800">
-		<title lang="zh">独爱东南</title>
-	</programme>
-	<programme channel="香港卫视" start="20260221230000 +0800" stop="20260221232000 +0800">
+	<programme channel="香港卫视" start="20260222084000 +0800" stop="20260222085600 +0800">
 		<title lang="zh">亚洲青年说</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221232000 +0800" stop="20260221235400 +0800">
+	<programme channel="香港卫视" start="20260222085600 +0800" stop="20260222090100 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222090100 +0800" stop="20260222093100 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222093100 +0800" stop="20260222095800 +0800">
+		<title lang="zh">香港精神03</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222095800 +0800" stop="20260222100500 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222100500 +0800" stop="20260222103500 +0800">
 		<title lang="zh">香港故事</title>
 	</programme>
-	<programme channel="香港卫视" start="20260221235400 +0800" stop="20260221235900 +0800">
+	<programme channel="香港卫视" start="20260222103500 +0800" stop="20260222110500 +0800">
+		<title lang="zh">文化超声03</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222110500 +0800" stop="20260222113500 +0800">
+		<title lang="zh">美丽中华行</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222113500 +0800" stop="20260222120200 +0800">
+		<title lang="zh">时尚汇04</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222120200 +0800" stop="20260222122400 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222122400 +0800" stop="20260222123000 +0800">
+		<title lang="zh">三奇企业宣传片</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222123000 +0800" stop="20260222124700 +0800">
+		<title lang="zh">港视午新闻02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222124700 +0800" stop="20260222131300 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222131300 +0800" stop="20260222134300 +0800">
+		<title lang="zh">文化超声03</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222134300 +0800" stop="20260222141200 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222141200 +0800" stop="20260222142500 +0800">
+		<title lang="zh">印象重庆02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222142500 +0800" stop="20260222144500 +0800">
+		<title lang="zh">午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222144500 +0800" stop="20260222153200 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222153200 +0800" stop="20260222161800 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222161800 +0800" stop="20260222170500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222170500 +0800" stop="20260222172800 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222172800 +0800" stop="20260222175100 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222175100 +0800" stop="20260222181400 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222181400 +0800" stop="20260222183700 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222183700 +0800" stop="20260222190000 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222190000 +0800" stop="20260222191700 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222191700 +0800" stop="20260222194500 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222194500 +0800" stop="20260222195300 +0800">
+		<title lang="zh">非凡讲述02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222195300 +0800" stop="20260222200500 +0800">
+		<title lang="zh">印象重庆02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222200500 +0800" stop="20260222203500 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222203500 +0800" stop="20260222205900 +0800">
+		<title lang="zh">西望成都02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222205900 +0800" stop="20260222213000 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222213000 +0800" stop="20260222220000 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222220000 +0800" stop="20260222223000 +0800">
+		<title lang="zh">映像</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222223000 +0800" stop="20260222224500 +0800">
+		<title lang="zh">亚洲青年说</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222224500 +0800" stop="20260222232000 +0800">
+		<title lang="zh">讲述者</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222232000 +0800" stop="20260222234900 +0800">
+		<title lang="zh">香港精神03</title>
+	</programme>
+	<programme channel="香港卫视" start="20260222234900 +0800" stop="20260222235900 +0800">
 		<title lang="zh">港视大直播</title>
 	</programme>
 	<channel id="睛彩广场舞">
 		<display-name lang="zh">睛彩广场舞</display-name>
 	</channel>
-	<programme channel="睛彩广场舞" start="20260221000000 +0800" stop="20260221003000 +0800">
-		<title lang="zh">足球世界2526赛季西甲第20轮皇家社会巴塞罗那</title>
+	<programme channel="睛彩广场舞" start="20260222000000 +0800" stop="20260222011000 +0800">
+		<title lang="zh">英超赛场2526赛季英超第27轮切尔西伯恩利直播</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221003000 +0800" stop="20260221004500 +0800">
+	<programme channel="睛彩广场舞" start="20260222011000 +0800" stop="20260222013000 +0800">
 		<title lang="zh">冬奥宣传</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221004500 +0800" stop="20260221011000 +0800">
-		<title lang="zh">欧陆足球版图</title>
+	<programme channel="睛彩广场舞" start="20260222013000 +0800" stop="20260222034500 +0800">
+		<title lang="zh">足球世界2526赛季德甲第23轮RB莱比锡多特蒙德直播</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221011000 +0800" stop="20260221012500 +0800">
+	<programme channel="睛彩广场舞" start="20260222034500 +0800" stop="20260222040000 +0800">
 		<title lang="zh">冬奥宣传</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221012500 +0800" stop="20260221030500 +0800">
-		<title lang="zh">足球世界2526赛季意甲第6轮国际米兰克雷莫内塞</title>
+	<programme channel="睛彩广场舞" start="20260222040000 +0800" stop="20260222062000 +0800">
+		<title lang="zh">英超赛场2526赛季英超第27轮曼城纽卡斯尔联直播</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221030500 +0800" stop="20260221035500 +0800">
-		<title lang="zh">英超精华</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221035500 +0800" stop="20260221041000 +0800">
+	<programme channel="睛彩广场舞" start="20260222062000 +0800" stop="20260222063500 +0800">
 		<title lang="zh">冬奥宣传</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221041000 +0800" stop="20260221055000 +0800">
-		<title lang="zh">足球世界2526赛季意甲第7轮罗马国际米兰</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221055000 +0800" stop="20260221060000 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221060000 +0800" stop="20260221070000 +0800">
-		<title lang="zh">瑜悦身心</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221070000 +0800" stop="20260221070500 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221070500 +0800" stop="20260221075500 +0800">
-		<title lang="zh">掼牌精英赛</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221075500 +0800" stop="20260221080500 +0800">
-		<title lang="zh">球星面对面对话姆贝莫</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221080500 +0800" stop="20260221081000 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221081000 +0800" stop="20260221090000 +0800">
-		<title lang="zh">英超精华</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221090000 +0800" stop="20260221091000 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221091000 +0800" stop="20260221101000 +0800">
-		<title lang="zh">瑜悦身心</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221101000 +0800" stop="20260221101500 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221101500 +0800" stop="20260221104000 +0800">
-		<title lang="zh">欧陆足球版图</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221104000 +0800" stop="20260221104500 +0800">
-		<title lang="zh">2025体育大事件</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221104500 +0800" stop="20260221105500 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221105500 +0800" stop="20260221111000 +0800">
-		<title lang="zh">睛彩圈圈点第二十八期</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221111000 +0800" stop="20260221112000 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221112000 +0800" stop="20260221115000 +0800">
-		<title lang="zh">睛彩体坛深瞳篮下的小黄车</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221115000 +0800" stop="20260221120000 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221120000 +0800" stop="20260221122000 +0800">
+	<programme channel="睛彩广场舞" start="20260222063500 +0800" stop="20260222070000 +0800">
 		<title lang="zh">中超精华</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221122000 +0800" stop="20260221123000 +0800">
+	<programme channel="睛彩广场舞" start="20260222070000 +0800" stop="20260222070500 +0800">
 		<title lang="zh">冬奥宣传</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221123000 +0800" stop="20260221124000 +0800">
-		<title lang="zh">冬奥勋章中国荣耀</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221124000 +0800" stop="20260221125000 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221125000 +0800" stop="20260221130000 +0800">
-		<title lang="zh">冬奥高光巅峰时刻</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221130000 +0800" stop="20260221131000 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221131000 +0800" stop="20260221131500 +0800">
-		<title lang="zh">2025体育大事件</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221131500 +0800" stop="20260221140500 +0800">
+	<programme channel="睛彩广场舞" start="20260222070500 +0800" stop="20260222075500 +0800">
 		<title lang="zh">掼牌精英赛</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221140500 +0800" stop="20260221141500 +0800">
+	<programme channel="睛彩广场舞" start="20260222075500 +0800" stop="20260222080500 +0800">
+		<title lang="zh">球星面对面对话梅里诺</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222080500 +0800" stop="20260222081000 +0800">
 		<title lang="zh">冬奥宣传</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221141500 +0800" stop="20260221155500 +0800">
-		<title lang="zh">英超赛场2526赛季英超第19轮阿森纳阿斯顿维拉</title>
+	<programme channel="睛彩广场舞" start="20260222081000 +0800" stop="20260222090000 +0800">
+		<title lang="zh">英超精华</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221155500 +0800" stop="20260221160000 +0800">
+	<programme channel="睛彩广场舞" start="20260222090000 +0800" stop="20260222091000 +0800">
 		<title lang="zh">冬奥宣传</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221160000 +0800" stop="20260221170000 +0800">
+	<programme channel="睛彩广场舞" start="20260222091000 +0800" stop="20260222101000 +0800">
 		<title lang="zh">瑜悦身心</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221170000 +0800" stop="20260221195000 +0800">
-		<title lang="zh">冬奥全景2026米兰科尔蒂纳冬奥会精彩回顾</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221195000 +0800" stop="20260221200000 +0800">
-		<title lang="zh">冬奥勋章中国荣耀</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221200000 +0800" stop="20260221203000 +0800">
-		<title lang="zh">睛彩体坛深瞳篮下的小黄车</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221203000 +0800" stop="20260221203500 +0800">
-		<title lang="zh">2025体育大事件</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221203500 +0800" stop="20260221204000 +0800">
+	<programme channel="睛彩广场舞" start="20260222101000 +0800" stop="20260222101500 +0800">
 		<title lang="zh">冬奥宣传</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221204000 +0800" stop="20260221213000 +0800">
-		<title lang="zh">掼牌精英赛</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221213000 +0800" stop="20260221214500 +0800">
-		<title lang="zh">冬奥宣传</title>
-	</programme>
-	<programme channel="睛彩广场舞" start="20260221214500 +0800" stop="20260221221000 +0800">
+	<programme channel="睛彩广场舞" start="20260222101500 +0800" stop="20260222104000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221221000 +0800" stop="20260221222500 +0800">
+	<programme channel="睛彩广场舞" start="20260222104000 +0800" stop="20260222104500 +0800">
+		<title lang="zh">2025体育大事件</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222104500 +0800" stop="20260222105500 +0800">
 		<title lang="zh">冬奥宣传</title>
 	</programme>
-	<programme channel="睛彩广场舞" start="20260221222500 +0800" stop="20260221235900 +0800">
-		<title lang="zh">英超赛场2526赛季英超第27轮切尔西伯恩利直播</title>
+	<programme channel="睛彩广场舞" start="20260222105500 +0800" stop="20260222111000 +0800">
+		<title lang="zh">睛彩圈圈点第二十八期</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222111000 +0800" stop="20260222112000 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222112000 +0800" stop="20260222115000 +0800">
+		<title lang="zh">睛彩体坛深瞳篮下的小黄车</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222115000 +0800" stop="20260222120000 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222120000 +0800" stop="20260222122000 +0800">
+		<title lang="zh">中超精华</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222122000 +0800" stop="20260222123000 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222123000 +0800" stop="20260222124000 +0800">
+		<title lang="zh">冬奥勋章中国荣耀</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222124000 +0800" stop="20260222125000 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222125000 +0800" stop="20260222130000 +0800">
+		<title lang="zh">冬奥高光巅峰时刻</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222130000 +0800" stop="20260222131000 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222131000 +0800" stop="20260222131500 +0800">
+		<title lang="zh">2025体育大事件</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222131500 +0800" stop="20260222140500 +0800">
+		<title lang="zh">掼牌精英赛</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222140500 +0800" stop="20260222141500 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222141500 +0800" stop="20260222155500 +0800">
+		<title lang="zh">足球世界2526赛季意甲第14轮卡利亚里罗马</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222155500 +0800" stop="20260222160000 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222160000 +0800" stop="20260222170000 +0800">
+		<title lang="zh">瑜悦身心</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222170000 +0800" stop="20260222195000 +0800">
+		<title lang="zh">冬奥全景2026米兰科尔蒂纳冬奥会精彩回顾</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222195000 +0800" stop="20260222200000 +0800">
+		<title lang="zh">冬奥勋章中国荣耀</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222200000 +0800" stop="20260222200500 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222200500 +0800" stop="20260222203500 +0800">
+		<title lang="zh">睛彩体坛深瞳篮下的小黄车</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222203500 +0800" stop="20260222205000 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222205000 +0800" stop="20260222211500 +0800">
+		<title lang="zh">中超精华</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222211500 +0800" stop="20260222213000 +0800">
+		<title lang="zh">冬奥宣传</title>
+	</programme>
+	<programme channel="睛彩广场舞" start="20260222213000 +0800" stop="20260222235900 +0800">
+		<title lang="zh">英超赛场2526赛季英超第27轮诺丁汉森林利物浦直播</title>
 	</programme>
 </tv>
