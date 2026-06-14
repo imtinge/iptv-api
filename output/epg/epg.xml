@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260614115110 +0800">
+<tv date="20260614230053 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6197,304 +6197,334 @@
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
 	</channel>
-	<programme channel="海南卫视" start="20260614000000 +0800" stop="20260614000500 +0800">
-		<title lang="zh">乡村振兴电视夜校</title>
-	</programme>
-	<programme channel="海南卫视" start="20260614000500 +0800" stop="20260614003500 +0800">
+	<programme channel="海南卫视" start="20260615000500 +0800" stop="20260615003500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614003500 +0800" stop="20260614010000 +0800">
+	<programme channel="海南卫视" start="20260615003500 +0800" stop="20260615010000 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614010000 +0800" stop="20260614023000 +0800">
+	<programme channel="海南卫视" start="20260615010000 +0800" stop="20260615023000 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614023000 +0800" stop="20260614032000 +0800">
+	<programme channel="海南卫视" start="20260615023000 +0800" stop="20260615032000 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614032000 +0800" stop="20260614035000 +0800">
+	<programme channel="海南卫视" start="20260615032000 +0800" stop="20260615035000 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614035000 +0800" stop="20260614042000 +0800">
+	<programme channel="海南卫视" start="20260615035000 +0800" stop="20260615042000 +0800">
 		<title lang="zh">视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614042000 +0800" stop="20260614045600 +0800">
+	<programme channel="海南卫视" start="20260615042000 +0800" stop="20260615045600 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614045600 +0800" stop="20260614063500 +0800">
+	<programme channel="海南卫视" start="20260615045600 +0800" stop="20260615063500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614063500 +0800" stop="20260614070000 +0800">
+	<programme channel="海南卫视" start="20260615063500 +0800" stop="20260615070000 +0800">
 		<title lang="zh">全球国货之光</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614070000 +0800" stop="20260614070100 +0800">
-		<title lang="zh">国歌</title>
+	<programme channel="海南卫视" start="20260615070000 +0800" stop="20260615070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614070100 +0800" stop="20260614073300 +0800">
+	<programme channel="海南卫视" start="20260615070100 +0800" stop="20260615073300 +0800">
 		<title lang="zh">海南新闻联播</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614073300 +0800" stop="20260614180800 +0800">
-		<title lang="zh">阳光剧场</title>
+	<programme channel="海南卫视" start="20260615073300 +0800" stop="20260615081100 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记20</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614180800 +0800" stop="20260614182200 +0800">
+	<programme channel="海南卫视" start="20260615081100 +0800" stop="20260615084900 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记21</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615084900 +0800" stop="20260615093700 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记22</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615093700 +0800" stop="20260615102500 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记23</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615102500 +0800" stop="20260615111300 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记24</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615111300 +0800" stop="20260615120200 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记25</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615120200 +0800" stop="20260615130000 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记26</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615130000 +0800" stop="20260615134800 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记27</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615134800 +0800" stop="20260615143600 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记28</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615143600 +0800" stop="20260615152400 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记29</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615152400 +0800" stop="20260615161200 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记30</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615161200 +0800" stop="20260615170000 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记31</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615170000 +0800" stop="20260615180800 +0800">
+		<title lang="zh">阳光剧场:大西南剿匪记32</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615180800 +0800" stop="20260615182200 +0800">
 		<title lang="zh">天眼归来之幸福配方</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614182200 +0800" stop="20260614183000 +0800">
+	<programme channel="海南卫视" start="20260615182200 +0800" stop="20260615183000 +0800">
 		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614183000 +0800" stop="20260614190000 +0800">
-		<title lang="zh">海南新闻联播（直播）</title>
+	<programme channel="海南卫视" start="20260615183000 +0800" stop="20260615190000 +0800">
+		<title lang="zh">海南新闻联播</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614190000 +0800" stop="20260614193000 +0800">
-		<title lang="zh">新闻联播</title>
+	<programme channel="海南卫视" start="20260615190000 +0800" stop="20260615193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614193000 +0800" stop="20260614200000 +0800">
+	<programme channel="海南卫视" start="20260615193000 +0800" stop="20260615200000 +0800">
 		<title lang="zh">全球国货之光</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614200000 +0800" stop="20260614203000 +0800">
+	<programme channel="海南卫视" start="20260615200000 +0800" stop="20260615203000 +0800">
 		<title lang="zh">自贸港·财经视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614203000 +0800" stop="20260614223000 +0800">
-		<title lang="zh">金椰剧场</title>
+	<programme channel="海南卫视" start="20260615203000 +0800" stop="20260615211800 +0800">
+		<title lang="zh">金椰剧场:蜂巢(13)</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614223000 +0800" stop="20260614232000 +0800">
+	<programme channel="海南卫视" start="20260615211800 +0800" stop="20260615223000 +0800">
+		<title lang="zh">金椰剧场:蜂巢(14)</title>
+	</programme>
+	<programme channel="海南卫视" start="20260615223000 +0800" stop="20260615232000 +0800">
 		<title lang="zh">星光剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260614232000 +0800" stop="20260614235900 +0800">
+	<programme channel="海南卫视" start="20260615232000 +0800" stop="20260615235900 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
-	<programme channel="翡翠台" start="20260614000000 +0800" stop="20260614010500 +0800">
+	<programme channel="翡翠台" start="20260615000000 +0800" stop="20260615011000 +0800">
 		<title lang="zh">东张西望[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614010500 +0800" stop="20260614013500 +0800">
-		<title lang="zh">奇迹小店[粤]</title>
+	<programme channel="翡翠台" start="20260615011000 +0800" stop="20260615025000 +0800">
+		<title lang="zh">初入职场·中医季[粤/普]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614013500 +0800" stop="20260614020500 +0800">
-		<title lang="zh">周六聊Teen谷[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614020500 +0800" stop="20260614023500 +0800">
-		<title lang="zh">仨心友行 2[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614023500 +0800" stop="20260614030500 +0800">
-		<title lang="zh">一个好人[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614030500 +0800" stop="20260614033500 +0800">
-		<title lang="zh">一个好人[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614033500 +0800" stop="20260614040500 +0800">
-		<title lang="zh">手匠传承[粤/韩]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614040500 +0800" stop="20260614050000 +0800">
-		<title lang="zh">部落探秘[粤/普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614050000 +0800" stop="20260614060000 +0800">
-		<title lang="zh">隆行天下之重走八千里路云和月[普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614060000 +0800" stop="20260614063000 +0800">
-		<title lang="zh">粤讲粤㜺鬼[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614063000 +0800" stop="20260614070000 +0800">
-		<title lang="zh">粤讲粤㜺鬼[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614070000 +0800" stop="20260614073000 +0800">
-		<title lang="zh">Do姐有问题[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614073000 +0800" stop="20260614080000 +0800">
-		<title lang="zh">Do姐有问题[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614080000 +0800" stop="20260614083000 +0800">
-		<title lang="zh">科学一眼看清[粤/英]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614083000 +0800" stop="20260614090000 +0800">
-		<title lang="zh">科学一眼看清[粤/英]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614090000 +0800" stop="20260614093000 +0800">
-		<title lang="zh">星梦频道[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614093000 +0800" stop="20260614094500 +0800">
-		<title lang="zh">喜羊羊与灰太狼之羊羊趣冒险[粤/普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614094500 +0800" stop="20260614100000 +0800">
-		<title lang="zh">喜羊羊与灰太狼之羊羊趣冒险[粤/普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614100000 +0800" stop="20260614103000 +0800">
-		<title lang="zh">多啦A梦[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614103000 +0800" stop="20260614110000 +0800">
-		<title lang="zh">少女煮意日常[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614110000 +0800" stop="20260614113000 +0800">
-		<title lang="zh">讲清讲楚[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614113000 +0800" stop="20260614120000 +0800">
-		<title lang="zh">到此一游[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614120000 +0800" stop="20260614123000 +0800">
-		<title lang="zh">煮战[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614123000 +0800" stop="20260614130000 +0800">
-		<title lang="zh">煮战[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614130000 +0800" stop="20260614131500 +0800">
-		<title lang="zh">午间新闻[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614131500 +0800" stop="20260614150000 +0800">
-		<title lang="zh">初入职场b7中医季[粤/普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260614150000 +0800" stop="20260614152000 +0800">
+	<programme channel="翡翠台" start="20260615025000 +0800" stop="20260615031000 +0800">
 		<title lang="zh">Gi味俱全[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614152000 +0800" stop="20260614155500 +0800">
+	<programme channel="翡翠台" start="20260615031000 +0800" stop="20260615034000 +0800">
 		<title lang="zh">甜心先生[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614155500 +0800" stop="20260614160000 +0800">
+	<programme channel="翡翠台" start="20260615034000 +0800" stop="20260615040500 +0800">
+		<title lang="zh">到此一游[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615040500 +0800" stop="20260615043500 +0800">
+		<title lang="zh">煮战[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615043500 +0800" stop="20260615050000 +0800">
+		<title lang="zh">煮战[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615050000 +0800" stop="20260615053000 +0800">
+		<title lang="zh">科学一眼看清[粤/英]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615053000 +0800" stop="20260615060000 +0800">
+		<title lang="zh">科学一眼看清[粤/英]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615060000 +0800" stop="20260615074000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615074000 +0800" stop="20260615081000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615081000 +0800" stop="20260615084000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615084000 +0800" stop="20260615090000 +0800">
+		<title lang="zh">香港早晨[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615090000 +0800" stop="20260615100000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615100000 +0800" stop="20260615100500 +0800">
 		<title lang="zh">劲歌推介[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614160000 +0800" stop="20260614163000 +0800">
-		<title lang="zh">新干线战士 改变世界[粤/日]</title>
+	<programme channel="翡翠台" start="20260615100500 +0800" stop="20260615103500 +0800">
+		<title lang="zh">高朋满座#119[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614163000 +0800" stop="20260614170000 +0800">
+	<programme channel="翡翠台" start="20260615103500 +0800" stop="20260615114000 +0800">
+		<title lang="zh">梦华录#25[粤/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615114000 +0800" stop="20260615121500 +0800">
+		<title lang="zh">交易现场[粤] 及 潮流生活志[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615121500 +0800" stop="20260615125500 +0800">
+		<title lang="zh">食平D[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615125500 +0800" stop="20260615130000 +0800">
+		<title lang="zh">香港大学：引领•无限[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615130000 +0800" stop="20260615132000 +0800">
+		<title lang="zh">午间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615132000 +0800" stop="20260615141000 +0800">
+		<title lang="zh">流行都市[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615141000 +0800" stop="20260615145000 +0800">
+		<title lang="zh">HOME即是识[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615145000 +0800" stop="20260615155000 +0800">
+		<title lang="zh">原来爱上贼#1[粤][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615155000 +0800" stop="20260615162000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615162000 +0800" stop="20260615165000 +0800">
+		<title lang="zh">Kiki &amp; Nuna 知识宝库[粤/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615165000 +0800" stop="20260615172000 +0800">
 		<title lang="zh">Hands Up[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614170000 +0800" stop="20260614173000 +0800">
-		<title lang="zh">屁屁侦探[粤/日]</title>
+	<programme channel="翡翠台" start="20260615172000 +0800" stop="20260615175000 +0800">
+		<title lang="zh">多啦A梦[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614173000 +0800" stop="20260614175500 +0800">
-		<title lang="zh">樱桃小丸子[粤/日]</title>
+	<programme channel="翡翠台" start="20260615175000 +0800" stop="20260615180000 +0800">
+		<title lang="zh">财经新闻[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614175500 +0800" stop="20260614180000 +0800">
-		<title lang="zh">好嘢港多啲[粤]</title>
+	<programme channel="翡翠台" start="20260615180000 +0800" stop="20260615182500 +0800">
+		<title lang="zh">利嘉阁地产45 周年真盘源特约：今日有楼睇[粤] 及 潮流生活志[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614180000 +0800" stop="20260614183000 +0800">
-		<title lang="zh">财经透视[粤]</title>
+	<programme channel="翡翠台" start="20260615182500 +0800" stop="20260615183000 +0800">
+		<title lang="zh">新闻档案[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614183000 +0800" stop="20260614185500 +0800">
+	<programme channel="翡翠台" start="20260615183000 +0800" stop="20260615191500 +0800">
 		<title lang="zh">六点半新闻报道[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614185500 +0800" stop="20260614190000 +0800">
-		<title lang="zh">农本方参苓白术散呈献:天气报告[粤]</title>
+	<programme channel="翡翠台" start="20260615191500 +0800" stop="20260615192500 +0800">
+		<title lang="zh">世界观[粤] 及 农本方参苓白术散呈献:天气报告[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614190000 +0800" stop="20260614193000 +0800">
-		<title lang="zh">星期日档案[粤]</title>
+	<programme channel="翡翠台" start="20260615192500 +0800" stop="20260615193000 +0800">
+		<title lang="zh">有理说得清[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614193000 +0800" stop="20260614193500 +0800">
-		<title lang="zh">警声百二秒 III[粤]</title>
+	<programme channel="翡翠台" start="20260615193000 +0800" stop="20260615200000 +0800">
+		<title lang="zh">东张西望[粤] 及 香港大学：引领•无限[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614193500 +0800" stop="20260614200000 +0800">
-		<title lang="zh">东张西望[粤]</title>
+	<programme channel="翡翠台" start="20260615200000 +0800" stop="20260615203000 +0800">
+		<title lang="zh">黄道益活络油呈献：爱． 回家之开心速递#2829[粤] 及 保诚精选「宠爱宝」呈献：社畜求生101[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614200000 +0800" stop="20260614220500 +0800">
-		<title lang="zh">保济丸130 周年呈献：中年好声音4[粤]</title>
+	<programme channel="翡翠台" start="20260615203000 +0800" stop="20260615213000 +0800">
+		<title lang="zh">飞常日志II#1[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614220500 +0800" stop="20260614224500 +0800">
-		<title lang="zh">一周星星[粤]</title>
+	<programme channel="翡翠台" start="20260615213000 +0800" stop="20260615220000 +0800">
+		<title lang="zh">中国建设银行(亚洲)呈献：走过历史大地[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614224500 +0800" stop="20260614231500 +0800">
-		<title lang="zh">美食新闻周报[粤]</title>
+	<programme channel="翡翠台" start="20260615220000 +0800" stop="20260615230000 +0800">
+		<title lang="zh">女法医解密#1[粤/普][PG]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614231500 +0800" stop="20260614233000 +0800">
+	<programme channel="翡翠台" start="20260615230000 +0800" stop="20260615231500 +0800">
+		<title lang="zh">娱乐头条[粤] 及 环球新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615231500 +0800" stop="20260615234500 +0800">
 		<title lang="zh">晚间新闻[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614233000 +0800" stop="20260614233500 +0800">
-		<title lang="zh">农本方参苓白术散呈献:天气报告[粤]</title>
+	<programme channel="翡翠台" start="20260615234500 +0800" stop="20260615235000 +0800">
+		<title lang="zh">新闻档案[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260614233500 +0800" stop="20260614235900 +0800">
-		<title lang="zh">廉政狙击#7[粤][PG]</title>
+	<programme channel="翡翠台" start="20260615235000 +0800" stop="20260615235500 +0800">
+		<title lang="zh">农本方参苓白术散呈献:天气报告[粤] 及 潮流生活志[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260615235500 +0800" stop="20260615235900 +0800">
+		<title lang="zh">无名天使3D#19[粤][PG]</title>
 	</programme>
 	<channel id="魅力足球">
 		<display-name lang="zh">魅力足球</display-name>
 	</channel>
-	<programme channel="魅力足球" start="20260614011500 +0800" stop="20260614024000 +0800">
-		<title lang="zh">法甲第31轮:昂热-巴黎圣日耳曼</title>
-	</programme>
-	<programme channel="魅力足球" start="20260614024000 +0800" stop="20260614040500 +0800">
-		<title lang="zh">法甲联赛第32轮:里尔-勒阿弗尔</title>
-	</programme>
-	<programme channel="魅力足球" start="20260614040500 +0800" stop="20260614053000 +0800">
+	<programme channel="魅力足球" start="20260615011500 +0800" stop="20260615024000 +0800">
 		<title lang="zh">法甲第32轮:巴黎圣日耳曼-洛里昂</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614053000 +0800" stop="20260614065500 +0800">
+	<programme channel="魅力足球" start="20260615024000 +0800" stop="20260615040500 +0800">
 		<title lang="zh">2025-2026赛季法甲联赛第33轮</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614065500 +0800" stop="20260614082000 +0800">
-		<title lang="zh">2025-2026赛季法甲联赛第33轮</title>
+	<programme channel="魅力足球" start="20260615040500 +0800" stop="20260615053000 +0800">
+		<title lang="zh">西甲第2轮:奥萨苏纳-巴伦西亚</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614082000 +0800" stop="20260614094500 +0800">
-		<title lang="zh">法甲第34轮:巴黎-巴黎圣日耳曼</title>
+	<programme channel="魅力足球" start="20260615053000 +0800" stop="20260615065500 +0800">
+		<title lang="zh">西甲第3轮:塞尔塔-比利亚雷亚尔</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614094500 +0800" stop="20260614111000 +0800">
-		<title lang="zh">2026世界杯小组赛:墨西哥-南非</title>
+	<programme channel="魅力足球" start="20260615065500 +0800" stop="20260615082000 +0800">
+		<title lang="zh">西甲第4轮:莱万特-皇家贝蒂斯</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614111000 +0800" stop="20260614123500 +0800">
+	<programme channel="魅力足球" start="20260615082000 +0800" stop="20260615094500 +0800">
+		<title lang="zh">西甲第5轮:皇家马德里-西班牙人</title>
+	</programme>
+	<programme channel="魅力足球" start="20260615094500 +0800" stop="20260615111000 +0800">
 		<title lang="zh">2026世界杯小组赛:加拿大-波黑</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614123500 +0800" stop="20260614130500 +0800">
-		<title lang="zh">2025/2026英超联赛第22轮集锦</title>
+	<programme channel="魅力足球" start="20260615111000 +0800" stop="20260615123500 +0800">
+		<title lang="zh">2026世界杯小组赛:美国-巴拉圭</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614130500 +0800" stop="20260614143000 +0800">
-		<title lang="zh">德甲第27轮:多特蒙德-汉堡</title>
+	<programme channel="魅力足球" start="20260615123500 +0800" stop="20260615130500 +0800">
+		<title lang="zh">燃动金杯(1)</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614143000 +0800" stop="20260614155500 +0800">
+	<programme channel="魅力足球" start="20260615130500 +0800" stop="20260615143000 +0800">
 		<title lang="zh">德甲联赛第28轮:弗赖堡-拜仁</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614155500 +0800" stop="20260614172000 +0800">
-		<title lang="zh">绿茵经典:卡塔尔世界杯1/4决赛</title>
+	<programme channel="魅力足球" start="20260615143000 +0800" stop="20260615155500 +0800">
+		<title lang="zh">德甲第28轮:斯图加特-多特蒙德</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614172000 +0800" stop="20260614184500 +0800">
-		<title lang="zh">绿茵经典:2022卡塔尔世界杯决赛</title>
+	<programme channel="魅力足球" start="20260615155500 +0800" stop="20260615172000 +0800">
+		<title lang="zh">法甲第1轮:南特-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614184500 +0800" stop="20260614191000 +0800">
-		<title lang="zh">2025/2026英超联赛第22轮集锦</title>
+	<programme channel="魅力足球" start="20260615172000 +0800" stop="20260615184500 +0800">
+		<title lang="zh">法甲联赛第2轮:马赛-巴黎</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614191000 +0800" stop="20260614194000 +0800">
-		<title lang="zh">2025/2026英超联赛第23轮集锦</title>
+	<programme channel="魅力足球" start="20260615184500 +0800" stop="20260615191000 +0800">
+		<title lang="zh">2025/2026法甲联赛第19轮集锦</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614194000 +0800" stop="20260614210000 +0800">
+	<programme channel="魅力足球" start="20260615191000 +0800" stop="20260615194000 +0800">
+		<title lang="zh">2025/2026法甲联赛第20轮集锦</title>
+	</programme>
+	<programme channel="魅力足球" start="20260615194000 +0800" stop="20260615210000 +0800">
 		<title lang="zh">2026世界杯小组赛:墨西哥-南非</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614210000 +0800" stop="20260614222500 +0800">
-		<title lang="zh">2026世界杯小组赛:加拿大-波黑</title>
+	<programme channel="魅力足球" start="20260615210000 +0800" stop="20260615222500 +0800">
+		<title lang="zh">2026世界杯小组赛A组:韩国-捷克</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614222500 +0800" stop="20260614235000 +0800">
-		<title lang="zh">德甲联赛第31轮:多特蒙德-弗赖堡</title>
-	</programme>
-	<programme channel="魅力足球" start="20260614235000 +0800" stop="20260614123500 +0800">
+	<programme channel="魅力足球" start="20260615222500 +0800" stop="20260615235000 +0800">
 		<title lang="zh">德甲第32轮:拜仁慕尼黑-海登海姆</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614123500 +0800" stop="20260614130500 +0800">
-		<title lang="zh">2025/2026英超联赛第22轮集锦</title>
+	<programme channel="魅力足球" start="20260615235000 +0800" stop="20260615123500 +0800">
+		<title lang="zh">德甲:门兴格拉德巴赫-多特蒙德</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614130500 +0800" stop="20260614143000 +0800">
-		<title lang="zh">德甲第27轮:多特蒙德-汉堡</title>
+	<programme channel="魅力足球" start="20260615123500 +0800" stop="20260615130500 +0800">
+		<title lang="zh">燃动金杯(1)</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614143000 +0800" stop="20260614155500 +0800">
+	<programme channel="魅力足球" start="20260615130500 +0800" stop="20260615143000 +0800">
 		<title lang="zh">德甲联赛第28轮:弗赖堡-拜仁</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614155500 +0800" stop="20260614172000 +0800">
-		<title lang="zh">绿茵经典:卡塔尔世界杯1/4决赛</title>
+	<programme channel="魅力足球" start="20260615143000 +0800" stop="20260615155500 +0800">
+		<title lang="zh">德甲第28轮:斯图加特-多特蒙德</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614172000 +0800" stop="20260614184500 +0800">
-		<title lang="zh">绿茵经典:2022卡塔尔世界杯决赛</title>
+	<programme channel="魅力足球" start="20260615155500 +0800" stop="20260615172000 +0800">
+		<title lang="zh">法甲第1轮:南特-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614184500 +0800" stop="20260614191000 +0800">
-		<title lang="zh">2025/2026英超联赛第22轮集锦</title>
+	<programme channel="魅力足球" start="20260615172000 +0800" stop="20260615184500 +0800">
+		<title lang="zh">法甲联赛第2轮:马赛-巴黎</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614191000 +0800" stop="20260614194000 +0800">
-		<title lang="zh">2025/2026英超联赛第23轮集锦</title>
+	<programme channel="魅力足球" start="20260615184500 +0800" stop="20260615191000 +0800">
+		<title lang="zh">2025/2026法甲联赛第19轮集锦</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614194000 +0800" stop="20260614210000 +0800">
+	<programme channel="魅力足球" start="20260615191000 +0800" stop="20260615194000 +0800">
+		<title lang="zh">2025/2026法甲联赛第20轮集锦</title>
+	</programme>
+	<programme channel="魅力足球" start="20260615194000 +0800" stop="20260615210000 +0800">
 		<title lang="zh">2026世界杯小组赛:墨西哥-南非</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614210000 +0800" stop="20260614222500 +0800">
-		<title lang="zh">2026世界杯小组赛:加拿大-波黑</title>
+	<programme channel="魅力足球" start="20260615210000 +0800" stop="20260615222500 +0800">
+		<title lang="zh">2026世界杯小组赛A组:韩国-捷克</title>
 	</programme>
-	<programme channel="魅力足球" start="20260614222500 +0800" stop="20260614235000 +0800">
-		<title lang="zh">德甲联赛第31轮:多特蒙德-弗赖堡</title>
-	</programme>
-	<programme channel="魅力足球" start="20260614235000 +0800" stop="20260614235900 +0800">
+	<programme channel="魅力足球" start="20260615222500 +0800" stop="20260615235000 +0800">
 		<title lang="zh">德甲第32轮:拜仁慕尼黑-海登海姆</title>
+	</programme>
+	<programme channel="魅力足球" start="20260615235000 +0800" stop="20260615235900 +0800">
+		<title lang="zh">德甲:门兴格拉德巴赫-多特蒙德</title>
 	</programme>
 </tv>
