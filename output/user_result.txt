@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-18 07:49:07,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-09-18 21:59:33,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
@@ -9,12 +9,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://119.129.172.161:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://119.129.172.165:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://119.129.172.194:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://119.129.172.194:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://119.129.172.165:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://119.129.172.161:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 
 🌊港·澳·台,#genre#
@@ -26,8 +20,8 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 
 🏀体育频道,#genre#
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 JJ斗地主,https://live.iill.top/douyin/685317364746
 JJ斗地主,http://8.155.43.98:35455/huya/30814432
 JJ斗地主,http://1.14.124.206:35455/huya/30814432
