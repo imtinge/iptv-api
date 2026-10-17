@@ -1,15 +1,25 @@
 🕘️更新时间,#genre#
-2026-10-16 22:25:25,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-10-17 08:04:22,http://183.10.180.203:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-4,http://183.10.180.203:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6f0b450272fa20099b33349d316e5826
+CCTV-5,http://183.10.180.203:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://183.10.180.203:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://183.10.180.203:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://183.10.180.203:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://183.10.180.203:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://125.42.150.63:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
+广东卫视,http://183.10.180.203:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://183.10.180.203:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://125.42.150.63:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
+江苏卫视,http://183.10.180.203:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
@@ -24,5 +34,5 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🏀体育频道,#genre#
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 JJ斗地主,https://live.iill.top/douyin/685317364746
-JJ斗地主,http://1.14.124.206:35455/huya/30814433
 JJ斗地主,http://1.14.124.206:35455/huya/152698
+JJ斗地主,http://1.14.124.206:35455/huya/30814433
